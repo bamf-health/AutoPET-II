@@ -1,0 +1,11 @@
+/data/autopet_submission/Autopet2023/nnUNet_trained_models/nnUNet filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/Improving[[:space:]]Lesion[[:space:]]Segmentation[[:space:]]in[[:space:]]FDG.docx filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/nnUNet_trained_models filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/process.py filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/requirements.txt filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/test.sh filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/build.sh filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/Dockerfile filter=lfs diff=lfs merge=lfs -text
+/data/autopet_submission/Autopet2023/export.sh filter=lfs diff=lfs merge=lfs -text
+*.model filter=lfs diff=lfs merge=lfs -text
+*.nii.gz filter=lfs diff=lfs merge=lfs -text
