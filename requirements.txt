@@ -1,0 +1,6 @@
+nnUNET
+SimpleITK
+evalutils==0.3.1
+matplotlib
+scikit-learn==0.24.2
+scipy==1.6.3
